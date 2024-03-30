@@ -1,0 +1,154 @@
+[
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\CrypRaider.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\CrypRaider.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\CrypRaider.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\CrypRaiderCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\CrypRaiderCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\CrypRaiderGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\CrypRaiderGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\CrypRaiderProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\CrypRaiderProjectile.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\Grabber.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\Grabber.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\Mover.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\Mover.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\TriggerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\Source\\CrypRaider\\TriggerComponent.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\iTopya\\Documents\\Unreal Projects\\CrypRaider\\.vscode\\compileCommands_Default\\CrypRaider.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
